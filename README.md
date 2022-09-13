@@ -1,4 +1,4 @@
-#restaurants and bars in Kyoto for ROSCon2022
+# Restaurants and bars in Kyoto for ROSCon2022 participants
 
 **This repository is for sharing my recommendations on restaurants, bars, and cafes for those who are going to visit Kyoto, Japan for ROSCon 2022**
 
