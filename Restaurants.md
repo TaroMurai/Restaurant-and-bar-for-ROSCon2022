@@ -120,7 +120,7 @@
 ## Gion Asida (ぎをん　蘆田)
 - **URL**: https://tabelog.com/kyoto/A2601/A260301/26012678/
 - **Genre**: Japanese soft-shelled turtle, eel cuisine
-- **3 highlights**: soft-shelled turtle!, unique and entertaining owner chef, totally poles aart: love or hate
+- **3 highlights**: Soft-shelled turtle!, unique and entertaining owner chef, totally poles apart: Love or Hate
 - **Price range**: ¥¥ - ¥¥¥¥ (30 - 100 USD pp with alcohol, largely depending on what you order)
 - **Distance from ROSCon venue**: 30 mins by train
 - **Book in advance?**: Yes, recommended. 
