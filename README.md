@@ -2,6 +2,9 @@
 
 **This repository is for sharing my recommendations on restaurants, bars, and cafes for those who are going to visit Kyoto, Japan for ROSCon 2022**
 
+![Picture1](https://user-images.githubusercontent.com/113395903/190536634-4a5ba738-f2cf-4e06-b3bd-c32adb6bc105.png)
+
+
 ## WHAT is this list?
 
 This is the list of my personal recommendations on where to eat, drink and enjoy your time outside of the conference in Koyoto based on my actual experience.
