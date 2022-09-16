@@ -9,8 +9,8 @@ One caveat here is that I haven't been able to visit Kyoto since the pandemic so
 
 ## WHO am I?
 
-I'm COO of [kudan](https://www.kudan.io), a computer vision software company focusing on 3D SLAM technologies.  
-We are in the robotics space, especially in the autonomous mobile robots.  
+I'm working for a computer vision software company focusing on 3D SLAM technologies.  
+We are in the robotics space, especially in the autonomous mobile robots. But this repo is my personal one, theview is my onw, nothing to do with the company I'm working for.   
 But more importantly in this context, I'm born and raised in Japan and went to Kyoto University for my undergrad and grad school. Then my parents live there still so even after my graduation, I visited Kyoto several times every year before the pandemic.
 
 
