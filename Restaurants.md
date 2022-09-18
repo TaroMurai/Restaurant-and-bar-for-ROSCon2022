@@ -3,13 +3,13 @@
 ## Onikai (おにかい）
 - **URL**: http://onikai.isozumi.jp/
 - **Genre**: various Japanese cuisines 
-- **3 highlights**: Greate taste fresh local vegetables, Cosy yet vibrant atomosphere, exteior and interio really have "Kyoto"-ness
+- **3 highlights**: Greate taste fresh local vegetables, Cosy yet vibrant atmosphere, exterior and interior really have "Kyoto"-ness
 - **Price range**: ¥¥ (25-35 USD pp incl. alcohol. There is a course of 10 dishes with ~25 USD)
 - **Distance from ROSCon venue**: 30 mins by train
 - **Book in advance?**: Yes, especially for a group of more than 2.
 - **Non-Japanese-speaker friendliness**: Sorry I'm not sure but at least the staff should be friendly and try their best to accommodate your requests.
 - **Address**: Japan, 〒604-8026 Kyoto, Nakagyo Ward, Komeyacho, 388, 2nd floor
-- **Comment**: I visited this for almost all occasions. It's maybe tricky to find this restaurant for visitors from outside of Kyoto (even for Japanese) but definitely worth a try. It's located on a dodgy narrow street but once you enter the restraunt, there are many vegetables, friendly and energetic staff.  They feature fresh local and seasonal vegetables. I'm not so interested in vegetables and one of guys who always want to have meat in a dinner but the vegetables here look quite mouth-watering. Actually also there are many menus with meat.   
+- **Comment**: I visited this on almost all occasions. It's maybe tricky to find this restaurant for visitors from outside of Kyoto (even for Japanese) but definitely worth a try. It's located on a dodgy narrow street but once you enter the restaurant, there are many vegetables, friendly and energetic staff.  They feature fresh local and seasonal vegetables. I'm not so interested in vegetables and one of the guys who always want to have meat for dinner but the vegetables here look quite mouth-watering. Actually also there are many menus with meat.   
 
 
 ***
@@ -29,12 +29,12 @@
 ## Yoshiya (余志屋）
 - **URL**: https://tabelog.com/kyoto/A2601/A260202/26000701/
 - **Genre**: Japanese traditional cuisine
-- **3 highlights**: Great Japanese authnetic food with seafood, located on a hidden street, Great place to enjoy Sake/ Hot sake
+- **3 highlights**: Great Japanese authentic food with seafood, located on a hidden street, Great place to enjoy Sake/ Hot sake
 - **Price range**: ¥¥¥¥ (70 - 100 USD pp with alcohol, food only could be 50 USD pp)
 - **Distance from ROSCon venue**: 30 mins by train
 - **Book in advance?**: Yes, recommended
 - **Non-Japanese-speaker friendliness**: I imagine better to go there with a Japanese-speaking person.
-- **Address**:  apan, 〒604-8017 Kyoto, Nakagyo Ward, 先斗町通三条下る材木町188
+- **Address**:  Japan, 〒604-8017 Kyoto, Nakagyo Ward, 先斗町通三条下る材木町188
 - **Comment**: to be added
 
 
@@ -42,7 +42,7 @@
 ## Girogiro Hitoshina (ギロギロ　ひとしな) - VISA only - 
 - **URL**: https://tabelog.com/kyoto/A2601/A260201/26002260/
 - **Genre**: Japanese casual & creative traditional cuisin
-- **3 highlights**: Real creative Japanese cuisine, cosy atomosphere by a small river, Menu is only one course with 25-30 USD
+- **3 highlights**: Real creative Japanese cuisine, cosy atmosphere by a small river, Menu is only one course with 25-30 USD
 - **Price range**: ¥¥¥ (30 -50 USD pp)
 - **Distance from ROSCon venue**: 40 mins by train
 - **Book in advance?**: Yes as soon as possible. (Maybe already full even I published this)
@@ -81,7 +81,7 @@
 ## G-men (G麺)  - CASH ONLY - 
 - **URL**: https://tabelog.com/kyoto/A2601/A260301/26005217/
 - **Genre**: Udon (Japanese thick noodle)
-- **3 highlights**: Another option other than ramen for after-drink food, loved by local bar hoppers, possible to ask delivery to neaby bars while you are there
+- **3 highlights**: Another option other than ramen for after-drink food, loved by local bar hoppers, possible to ask for delivery to neaby bars while you are there
 - **Price range**: ¥ (10 USD pp)
 - **Distance from ROSCon venue**: 35 mins by train
 - **Book in advance?**:Not possible
@@ -93,8 +93,8 @@
 ***
 ## Gyoza-no-Osho (餃子の王将　三条店）
 - **URL**: https://www.ohsho.co.jp/english/
-- **Genre**: Japanese Chinese cuisne (dumpling, fried rice, ramen etc)
-- **3 highlights**: Nation-wide chain & pioneer of Japense-customized Chinese cuisine, great price for value, great match with Japaense draught beer
+- **Genre**: Japanese Chinese cuisine (dumplings, fried rice, ramen etc)
+- **3 highlights**: Nation-wide chain & pioneer of Japanese-customized Chinese cuisine, great price for value, great match with Japanese draught beer
 - **Price range**: ¥¥ (10 - 20 USD pp with alcohol)
 - **Distance from ROSCon venue**: 30 mins by train
 - **Book in advance?**: Not needed (not sure if we can)
