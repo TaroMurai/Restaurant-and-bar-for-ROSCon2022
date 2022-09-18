@@ -2,7 +2,7 @@
 
 **This repository is for sharing my recommendations on restaurants, bars, and cafes for those who are going to visit Kyoto, Japan for ROSCon 2022**
 
-![Picture1](https://user-images.githubusercontent.com/113395903/190536634-4a5ba738-f2cf-4e06-b3bd-c32adb6bc105.png)
+![ROSCon2022-header2-FINAL](https://user-images.githubusercontent.com/113395903/190880550-69f169e1-abe3-48b8-a3d6-673e6efc4c93.png)
 
 
 ## WHAT is this list?
