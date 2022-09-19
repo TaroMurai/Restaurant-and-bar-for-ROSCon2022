@@ -7,7 +7,7 @@
 
 ## WHAT is this list?
 
-This is the list of my personal recommendations on where to eat, drink and enjoy your time outside of the conference in Koyoto based on my actual experience.
+This is the list of my personal recommendations on where to eat, drink and enjoy your time outside of the conference in Kyoto based on my actual experience.
 One caveat here is that I haven't been able to visit Kyoto since the pandemic so the quality and the menus might have changed since I visited there last time.
 
 ## WHO am I?
