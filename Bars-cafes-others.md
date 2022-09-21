@@ -1,6 +1,7 @@
-### Bars in Kyoto
+# Bars in Kyoto
 
-** Here is the list of my recommended bars. 
+
+**Here is the list of my recommended bars.**
 
 There are several things to note.
 - These bars are mostly 30-40 mins by train from RsoCon venue and <10 minutes walk from many restaurants in the other list.
