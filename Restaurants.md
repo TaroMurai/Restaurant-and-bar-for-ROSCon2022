@@ -128,3 +128,38 @@
 - **Address**:  Japan, 〒605-0073 Kyoto, Higashiyama Ward, Gionmachi Kitagawa, 347-92 双葉ビル 1F
 - **Comment**: to be added
 
+***
+## Tendan (天壇)
+- **URL**: https://www.tendan.co.jp/english/
+- **Genre**: high class yakiniku restaurant in Kyoto
+- **3 highlights**: 
+- **Price range**: ¥¥ - ¥¥¥¥ (30 - 100 USD pp with alcohol, largely depending on what you order)
+- **Distance from ROSCon venue**: 6 mins by train (Kitayama)
+- **Book in advance?**: Yes, recommended. 
+- **Non-Japanese-speaker friendliness**: Should be okay for basic communication.
+- **Address**:  Japan, 106 Kamigamo Sakuraicho, Kita Ward, Kyoto, 603-8054
+- **Comment**: to be added
+
+***
+## Gokkei (極鶏）- CASH ONLY - 
+- **URL**: https://gokkei.amebaownd.com/pages/3826318/page_202005041821/
+- **Genre**: Ramen
+- **3 highlights**: One of the best famous Ramen in Kyoto, Chicken based and sludgy soup, Always a line out the door
+- **Price range**: ¥ (<10 USD pp)
+- **Distance from ROSCon venue**: 2 mins by train (matsugasaki) and 20 mins walk.
+- **Book in advance?**: Not possible
+- **Non-Japanese-speaker friendliness**: May be okay for basic communication
+- **Address**:  Japan, 29-7 Ichijoji Nishitojikawaracho, Sakyo Ward, Kyoto, 606-8123
+- **Comment**: to be added
+
+***
+## Toyotei (東洋亭 Main Branch）
+- **URL**: http://www.touyoutei.co.jp/shop/
+- **Genre**: Hamburg steak restaurant
+- **3 highlights**: Hamburg steak, whole tomate salad, pudding
+- **Price range**: ¥ (<30 USD pp)
+- **Distance from ROSCon venue**: 6 mins by train (Kitayama)
+- **Book in advance?**: yes, but available without.
+- **Non-Japanese-speaker friendliness**: May be okay for basic communication
+- **Address**:  Japan, 28-3 Kamigamo Iwagakakiuchicho, Kita Ward, Kyoto, 603-8053
+- **Comment**: to be added
