@@ -163,3 +163,16 @@
 - **Non-Japanese-speaker friendliness**: May be okay for basic communication
 - **Address**:  Japan, 28-3 Kamigamo Iwagakakiuchicho, Kita Ward, Kyoto, 603-8053
 - **Comment**: to be added
+
+***
+## UruUru（うるうる）
+- **URL**: https://www.kyoto-uru-uru.com/, https://goo.gl/maps/BUzAsNc56aR1x4uZA, https://tabelog.com/kyoto/A2601/A260201/26023442/, 
+- **Genre**: Drinking, Japanese Sake, Tasty Japanese Foods
+- **3 highlights**: Japenese Sake, Ptate Salad, Saikyo-Yaki
+- **Price range**: ¥ (<6000 JPY, 40.09 USD)
+- **Distance from ROSCon venue**: 15 mins by train + 5 mins by walk(SiZyo)
+- **Book in advance?**: yes, but available without.
+- **Non-Japanese-speaker friendliness**: May be okay for basic communication
+- **Address**: Japan, 422 Iwakura Ohsagicho, Sakyo Ward, Kyoto 600-8401
+- **Comment**: to be added
+
